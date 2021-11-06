@@ -29,7 +29,7 @@ ScreenManager:
             pos_hint: {'center_y': 0.94, 'center_x': 0.5}
         MDLabel:
             markup: True
-            text: 'Largura do Piso[font=Fonts/aller.bold-italic.ttf][size=24] / [/size][/font]Parede:'
+            text: 'Largura do Piso[font=Fonts/aller.bold-italic.ttf][size=24] / [/size][/font]Parede:' # floor/wall width
             halign: 'center'
             pos_hint: {'center_y': 0.855, 'center_x': 0.5}
             font_name: 'Fonts/challenge.contour.ttf'
