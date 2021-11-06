@@ -59,7 +59,7 @@ ScreenManager:
             size_hint_x: '0.1'
         MDLabel:
             markup: True
-            text: 'Comprimento do Piso[font=Fonts/aller.bold-italic.ttf][size=24] / [/size][/font]'
+            text: 'Comprimento do Piso[font=Fonts/aller.bold-italic.ttf][size=24] / [/size][/font]' # Floor Length
             halign: 'center'
             pos_hint: {'center_y': 0.735, 'center_x': 0.5}
             font_name: 'Fonts/challenge.contour.ttf'
