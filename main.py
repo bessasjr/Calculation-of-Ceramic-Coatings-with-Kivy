@@ -21,7 +21,7 @@ ScreenManager:
             pos_hint: {'center_y': 0.95, 'center_x': 0.5}
             size_hint: 1,0.12
         MDLabel:
-            text: 'CONSTRUTOR'
+            text: 'CONSTRUTOR' # constructor
             color: 'white'
             halign: 'center'
             font_name: 'Fonts/challenge.contour.ttf'
