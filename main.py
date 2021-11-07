@@ -46,7 +46,7 @@ ScreenManager:
             font_name: 'Fonts/aller.bold-italic.ttf'
             font_size: '22'
         MDLabel:
-            text: '(metros)'
+            text: '(metros)' # meters
             color: '#4b4947'
             halign: 'center'
             pos_hint: {'center_y': 0.805, 'center_x': 0.58}
@@ -65,7 +65,7 @@ ScreenManager:
             font_name: 'Fonts/challenge.contour.ttf'
             font_size: '34'
         MDLabel:
-            text: 'Altura da Parede:'
+            text: 'Altura da Parede:' # wall height
             halign: 'center'
             pos_hint: {'center_y': 0.695, 'center_x': 0.5}
             font_name: 'Fonts/challenge.contour.ttf'
@@ -82,7 +82,7 @@ ScreenManager:
             font_name: 'Fonts/aller.bold-italic.ttf'
             font_size: '22'
         MDLabel:
-            text: '(metros)'
+            text: '(metros)' # meters
             color: '#4b4947'
             halign: 'center'
             pos_hint: {'center_y': 0.64, 'center_x': 0.58}
@@ -94,7 +94,7 @@ ScreenManager:
             color: '#adaaa8'
             size_hint_x: '0.1'
         MDLabel:
-            text: 'Largura da Peça:'
+            text: 'Largura da Peça:' # part width
             halign: 'center'
             pos_hint: {'center_y': 0.57, 'center_x': 0.5}
             font_name: 'Fonts/challenge.contour.ttf'
@@ -111,7 +111,7 @@ ScreenManager:
             font_name: 'Fonts/aller.bold-italic.ttf'
             font_size: '22'
         MDLabel:
-            text: '(centímetros)'
+            text: '(centímetros)' # centimeters
             color: '#4b4947'
             halign: 'center'
             pos_hint: {'center_y': 0.515, 'center_x': 0.63}
@@ -123,7 +123,7 @@ ScreenManager:
             color: '#adaaa8'
             size_hint_x: '0.1'
         MDLabel:
-            text: 'Comprimento da Peça:'
+            text: 'Comprimento da Peça:' # part length
             halign: 'center'
             pos_hint: {'center_y': 0.445, 'center_x': 0.5}
             font_name: 'Fonts/challenge.contour.ttf'
@@ -140,7 +140,7 @@ ScreenManager:
             font_name: 'Fonts/aller.bold-italic.ttf'
             font_size: '22'
         MDLabel:
-            text: '(centímetros)'
+            text: '(centímetros)' # centimeters
             color: '#4b4947'
             halign: 'center'
             pos_hint: {'center_y': 0.39, 'center_x': 0.63}
